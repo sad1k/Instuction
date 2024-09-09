@@ -8,8 +8,8 @@
 ![](https://github.com/sad1k/Instuction/blob/main/image20240909081639.png)
 2) Нажимаем на кнопку создать встречу     
 ![](https://github.com/sad1k/Instuction/blob/main/image20240909081715.png)
-3) У вас откроется модальное окно. Заполните название встречи и участников и продолжительность в минутах.
-   ![](https://github.com/sad1k/Instuction/blob/main/image20240909081808.png)
+3) У вас откроется модальное окно. Заполните название встречи и участников и продолжительность в минутах.        
+![](https://github.com/sad1k/Instuction/blob/main/image20240909081808.png)
 4) По нажатию на тип встречи откроется селектор для выбора встречи выбери встречу которую вы заводите
 ![](https://github.com/sad1k/Instuction/blob/main/image20240909082000.png)
 5) Нажмите кнопку подтвердить                  
