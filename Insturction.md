@@ -12,9 +12,10 @@
    ![](https://github.com/sad1k/Instuction/blob/main/image20240909081808.png)
 4) По нажатию на тип встречи откроется селектор для выбора встречи выбери встречу которую вы заводите
 ![](https://github.com/sad1k/Instuction/blob/main/image20240909082000.png)
-5) Нажмите кнопку подтвердить
-   ![](https://github.com/sad1k/Instuction/blob/main/image20240909082028.png)
-6) Если все хорошо то высветится уведомление в левом правом углу![](https://github.com/sad1k/Instuction/blob/main/image20240909082117.png)
+5) Нажмите кнопку подтвердить                  
+![](https://github.com/sad1k/Instuction/blob/main/image20240909082028.png)
+6) Если все хорошо то высветится уведомление в левом правом углу            
+![](https://github.com/sad1k/Instuction/blob/main/image20240909082117.png)
 
 ### Также если вам необходимо удалить встречу или изменить ее можно перейти к ней в таблице со встречами
 1) Кликните по названию встречи в таблице
