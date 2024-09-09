@@ -1,26 +1,26 @@
 # Как организовать свою встречу
 
 **Чтобы захостить встречу необходимо в [“6seniors форум”](https://t.me/sixseniors_forum) в чате “Sync: встречи” договорится со студентами о проведении встречи, примерный формат изображен на скриншоте ниже:**
-![](https://github.com/sad1k/Instuction/blob/main/Pasted%20image%2020240909081222.png)
+![](https://github.com/sad1k/Instuction/blob/main/image20240909081222.png)
 
 После того как определились со временем и студентами, нужно завести встречу на платформе, она автоматически попадет в гугл календарь:
 1) Заходим на платформу и кликаем по табу "Встречи между студентами"
-![](https://github.com/sad1k/Instuction/blob/main/Pasted image 20240909081639.png)
+![](https://github.com/sad1k/Instuction/blob/main/image20240909081639.png)
 2) Нажимаем на кнопку создать встречу
-   ![](https://github.com/sad1k/Instuction/blob/main/Pasted image 20240909081715.png)
+   ![](https://github.com/sad1k/Instuction/blob/main/image20240909081715.png)
 3) У вас откроется модальное окно. Заполните название встречи и участников и продолжительность в минутах.
-   ![](https://github.com/sad1k/Instuction/blob/main/Pasted image 20240909081808.png)
+   ![](https://github.com/sad1k/Instuction/blob/main/image20240909081808.png)
 4) По нажатию на тип встречи откроется селектор для выбора встречи выбери встречу которую вы заводите
-![](https://github.com/sad1k/Instuction/blob/main/Pasted image 20240909082000.png)
+![](https://github.com/sad1k/Instuction/blob/main/image20240909082000.png)
 5) Нажмите кнопку подтвердить
-   ![](https://github.com/sad1k/Instuction/blob/main/Pasted image 20240909082028.png)
-6) Если все хорошо то высветится уведомление в левом правом углу![](https://github.com/sad1k/Instuction/blob/main/Pasted image 20240909082117.png
+   ![](https://github.com/sad1k/Instuction/blob/main/image20240909082028.png)
+6) Если все хорошо то высветится уведомление в левом правом углу![](https://github.com/sad1k/Instuction/blob/main/image20240909082117.png)
 
 ### Также если вам необходимо удалить встречу или изменить ее можно перейти к ней в таблице со встречами
 1) Кликните по названию встречи в таблице
-![](https://github.com/sad1k/Instuction/blob/main/Pasted image 20240909082313.png)
+![](https://github.com/sad1k/Instuction/blob/main/image20240909082313.png)
 2) У вас откроется страница с информацией о встречи выберите, что вам нужно изменить встречу или удалить
-![](https://github.com/sad1k/Instuction/blob/main/Pasted image 20240909082410.png)
+![](https://github.com/sad1k/Instuction/blob/main/image20240909082410.png)
 
 После проведения встречи НЕОБХОДИМО заполнить [ТАБЛИЦУ](https://docs.google.com/spreadsheets/d/1glsNm6TBWLS1z2O0vnukydNKmYqjd6Kr3-YF5yncZXk/edit#gid=1312251827) “Доп. встречи”, где указывается вид встречи, хост, участники и тема. Это необходимо чтобы получить свои галочки.
-![](https://github.com/sad1k/Instuction/blob/main/Pasted image 20240909082539.png)
+![](https://github.com/sad1k/Instuction/blob/main/image20240909082539.png)
